@@ -8,4 +8,4 @@
 
 3) There is no relationship between city latitude and cloudiness.
 
-4) There is no relationship between city latitude and wind speed.
+4) There is no relationship between city latitude and Wind Speed.
